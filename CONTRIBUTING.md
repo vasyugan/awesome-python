@@ -1,6 +1,7 @@
 # Contributing
 
 Your contributions are always welcome!
+"Bitte sende eine mail an liべbli"
 
 ## Guidelines
 
